@@ -1,0 +1,8 @@
+
+{
+  "name": "Honda Digital Showroom",
+  "description": "A high-fidelity Honda automotive replica featuring product showcases, EMI calculators, and dealer locators with a premium corporate aesthetic.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
